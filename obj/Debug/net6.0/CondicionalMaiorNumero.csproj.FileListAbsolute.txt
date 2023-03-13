@@ -1,0 +1,15 @@
+C:\Irwing\CondicionalMaiorNumero\bin\Debug\net6.0\CondicionalMaiorNumero.exe
+C:\Irwing\CondicionalMaiorNumero\bin\Debug\net6.0\CondicionalMaiorNumero.deps.json
+C:\Irwing\CondicionalMaiorNumero\bin\Debug\net6.0\CondicionalMaiorNumero.runtimeconfig.json
+C:\Irwing\CondicionalMaiorNumero\bin\Debug\net6.0\CondicionalMaiorNumero.dll
+C:\Irwing\CondicionalMaiorNumero\bin\Debug\net6.0\CondicionalMaiorNumero.pdb
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.csproj.AssemblyReference.cache
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.AssemblyInfoInputs.cache
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.AssemblyInfo.cs
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.csproj.CoreCompileInputs.cache
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.dll
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\refint\CondicionalMaiorNumero.dll
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.pdb
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\CondicionalMaiorNumero.genruntimeconfig.cache
+C:\Irwing\CondicionalMaiorNumero\obj\Debug\net6.0\ref\CondicionalMaiorNumero.dll
